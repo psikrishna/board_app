@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "990552215929",
+    "firebase_url": "https://boardapp-53092.firebaseio.com",
+    "project_id": "boardapp-53092",
+    "storage_bucket": "boardapp-53092.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990552215929:android:73bb1374c20ec7e69edfa8",
+        "android_client_info": {
+          "package_name": "com.example.board_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990552215929-dorl7k2jjrqahvpaiq728vjmnnnort58.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgBP5Nnexuxp5jZD8hEFf0ZCLqQ7IeGSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990552215929-dorl7k2jjrqahvpaiq728vjmnnnort58.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
